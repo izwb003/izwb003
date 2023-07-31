@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My Avatar drawn](https://raw.githubusercontent.com/izwb003/izwb003/main/img/Head_Avatar.jpg#pic_center)
+<img src="https://raw.githubusercontent.com/izwb003/izwb003/main/img/Head_Avatar.jpg" align="center" width="20%" height="20%" title="This avatar is a gift drawn by @イケメン狗 as the most special gift given to me in recent years :P" />
 
 🫠This is @izwb003, who *CAN* be described as...
 
@@ -32,7 +32,15 @@ Well, although I know that maybe nobody will contact me, but if you did, I will 
 
 ### And if you like welcome to visit other places where you can find me... 🤝
 
+<img src="https://raw.githubusercontent.com/izwb003/izwb003/main/img/ico/bilibili-line.svg" width="2%" height="2%" /> [Bilibili](https://space.bilibili.com/36937211) (I upload videos about movie, games, multimedia technologies and shares pleasant music. If you enjoy them welcome to SanLian me:P.)
 
+<img src="https://raw.githubusercontent.com/izwb003/izwb003/main/img/ico/cnblogs.svg" width="2%" height="2%" /> [Cnblogs Blog](https://www.cnblogs.com/izwb003/) (I share articles about various technican information, aims to help people who are searching for help on the internet.)
+
+<img src="https://raw.githubusercontent.com/izwb003/izwb003/0d3903962b7e30b9e8c1e724e6ace8bf6d1f1989/img/ico/csdn.svg" width="2%" height="2%" /> [CSDN Blog](https://blog.csdn.net/izwb_003) (I don't write on CSDN, so it is empty now. I only use this account for searching information.)
+
+<img src="https://raw.githubusercontent.com/izwb003/izwb003/0d3903962b7e30b9e8c1e724e6ace8bf6d1f1989/img/ico/tieba0.svg" width="2%" height="2%" /> [Baidu Tieba](https://tieba.baidu.com/home/main?id=tb.1.6281e9f1.3ZKgW3coFRfpAw97u0dymA&fr=userbar) (I just enjoys chatting there. On my page you can find me asking technical questions and giving solutions.)
+
+<img src="https://raw.githubusercontent.com/izwb003/izwb003/0d3903962b7e30b9e8c1e724e6ace8bf6d1f1989/img/ico/zhihu0.svg" width="2%" height="2%" /> [Zhihu](https://www.zhihu.com/people/izwb003) (I seldom visit zhihu. You will only find some questions and answers written by others that I like on my page.)
 
 ### Acknowledgements
 
