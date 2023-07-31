@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![My Avatar drawn](https://raw.githubusercontent.com/izwb003/izwb003/main/img/Head_Avatar.jpg#pic_center)
+
 🫠This is @izwb003, who *CAN* be described as...
 
 * 📚University student who majors in computer science. (😴He sleeps all day at school and never goes to classes at 8 am.)
