@@ -42,11 +42,7 @@ Well, although I know that maybe nobody will contact me, but if you did, I will 
 
 <img src="https://raw.githubusercontent.com/izwb003/izwb003/0d3903962b7e30b9e8c1e724e6ace8bf6d1f1989/img/ico/zhihu0.svg" width="2%" height="2%" /> [Zhihu](https://www.zhihu.com/people/izwb003) (I seldom visit zhihu. You will only find some questions and answers written by others that I like on my page.)
 
-### Acknowledgements
-
-
-
-### In one word...
+### In one word...🔡
 
 This guy is a technican, driven by his own hobbies since he was very young. Until today, although he is not doing well, he is still trying his best, no matter what he paid. He always defines himself as a "rubbish person", believing that everyone is doing better than him, but he is always striving to become better. He and others in his age group do not share common interests, hobbies, and topics, which makes him very awkward and therefore he is very isolated. He has almost no friends and is very afraid of socializing, but everyone he considers as a friend is supporting and encouraging him. He doesn't know much, but as long as it's the knowledge he knows, he's definitely willing to share it and hope it can help more people.
 
