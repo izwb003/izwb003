@@ -38,7 +38,7 @@ Well, although I know that maybe nobody will contact me, but if you did, I will 
 
 <img src="https://raw.githubusercontent.com/izwb003/izwb003/0d3903962b7e30b9e8c1e724e6ace8bf6d1f1989/img/ico/csdn.svg" width="2%" height="2%" /> [CSDN Blog](https://blog.csdn.net/izwb_003) (I don't write on CSDN, so it is empty now. I only use this account for searching information.)
 
-<img src="https://raw.githubusercontent.com/izwb003/izwb003/0d3903962b7e30b9e8c1e724e6ace8bf6d1f1989/img/ico/tieba0.svg" width="2%" height="2%" /> [Baidu Tieba](https://tieba.baidu.com/home/main?id=tb.1.6281e9f1.3ZKgW3coFRfpAw97u0dymA&fr=userbar) (I just enjoys chatting there. On my page you can find me asking technical questions and giving solutions.)
+<img src="https://raw.githubusercontent.com/izwb003/izwb003/0d3903962b7e30b9e8c1e724e6ace8bf6d1f1989/img/ico/tieba0.svg" width="2%" height="2%" /> [Baidu Tieba](https://tieba.baidu.com/home/main?id=tb.1.6281e9f1.3ZKgW3coFRfpAw97u0dymA&fr=userbar) (I just enjoy chatting there. On my page you can find me asking technical questions and giving solutions.)
 
 <img src="https://raw.githubusercontent.com/izwb003/izwb003/0d3903962b7e30b9e8c1e724e6ace8bf6d1f1989/img/ico/zhihu0.svg" width="2%" height="2%" /> [Zhihu](https://www.zhihu.com/people/izwb003) (I seldom visit zhihu. You will only find some questions and answers written by others that I like on my page.)
 
@@ -50,7 +50,7 @@ That's me, appearing on the internet with the name of @izwb003. I know that afte
 
 Finally, thank you very much for being willing to check my profile page and discovering me in the corner of the internet. I have nothing to thank you for, so I wish you a wonderful day!😉
 
-Last updated: 31 July, 2023.
+Last updated: 3 August, 2023.
 
 
 <!--
